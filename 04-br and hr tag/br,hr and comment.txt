@@ -1,0 +1,35 @@
+                           Br, hr and comment tag
+
+HTML Horizontal Rules
+The <hr> tag defines a thematic break in an HTML page, and is most often displayed as a horizontal rule.
+
+The <hr> element is used to separate content (or define a change) in an HTML page:
+
+HTML Line Breaks
+
+The HTML <br> element defines a line break.
+Use <br> if you want a line break (a new line) without starting a new paragraph:
+
+Comment:
+HTML comments are not displayed in the browser, but they can help document your HTML source code.
+
+HTML Comment Tag
+You can add comments to your HTML source by using the following syntax:
+
+<!-- Write your comments here -->
+
+Example:
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<!-- This is a comment -->
+<p>This is a paragraph.</p>
+<!-- Comments are not displayed in the browser -->
+
+</body>
+</html>
+
+Output:
+This is a paragraph
